@@ -19,4 +19,16 @@ package com.cx.test;
  * @since 1.0.0
  */
 public class Hello {
+    private String gitTest;
+
+    public String getGitTest() {
+        return gitTest;
+    }
+
+    public void setGitTest(String gitTest) {
+        this.gitTest = gitTest;
+    }
+
+
+
 }
